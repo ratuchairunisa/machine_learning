@@ -1,2 +1,2 @@
 # Welcome to Our Repo!🌟
-repository ini dibuat untuk mempermudah kolaborasi dalam tim machine learning dalam membuat model yang baik untuk keperluan capstone project pada Coding Camp Powered by DBS Foundation 2025
+Repository ini dibuat sebagai wadah untuk mempermudah kolaborasi tim machine learning dalam membangun model yang baik untuk membuat sebuah website demi memenuhi kewajiban pada capstone project di Coding Camp Powered by DBS Foundation 2025
